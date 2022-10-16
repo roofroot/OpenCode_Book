@@ -16,7 +16,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import cn.open.book.ui.SCREEN_DENSITY
 import cn.open.book.ui.SCREEN_W
-import cn.open.book.ui.compose.TestData.HighLightWord
+import cn.open.book.ui.compose.data.HighLightWord
 
 val isShowInterpretationView: MutableState<Boolean> = mutableStateOf(false)
 val wordChange: MutableState<Boolean> = mutableStateOf(false)

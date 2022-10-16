@@ -13,8 +13,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.layout.positionInWindow
 import androidx.compose.ui.unit.dp
-import cn.open.book.ui.compose.TestData.HighLightWord
-import cn.open.book.ui.compose.TestData.Points
+import cn.open.book.ui.compose.data.HighLightWord
+import cn.open.book.ui.compose.data.Points
 
 /**
  * 词汇控件，用于保存最小单元，一个单词，或一个汉字

@@ -13,7 +13,7 @@ import androidx.compose.ui.layout.onPlaced
 import androidx.compose.ui.layout.positionInWindow
 import cn.open.book.ui.compose.TestData.chapter1
 import cn.open.book.ui.compose.theme.BaseTheme
-import cn.open.book.ui.utils.DataUtils
+import cn.open.book.ui.compose.util.DataUtils
 
 /**
  * 章节顶级目录。

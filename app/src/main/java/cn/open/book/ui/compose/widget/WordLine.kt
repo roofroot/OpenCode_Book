@@ -6,7 +6,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.Layout
 import cn.open.book.ui.SCREEN_W
-import cn.open.book.ui.compose.TestData.HighLightWord
+import cn.open.book.ui.compose.data.HighLightWord
 
 /**
  * 段落，由word控件组成
