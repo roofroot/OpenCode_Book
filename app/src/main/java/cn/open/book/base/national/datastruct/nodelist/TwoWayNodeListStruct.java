@@ -1,4 +1,4 @@
-package cn.open.book.base.national.datastruct;
+package cn.open.book.base.national.datastruct.nodelist;
 
 public class TwoWayNodeListStruct<T> implements TwoWayNodeListInterface<T> {
     int size;

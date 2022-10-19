@@ -1,4 +1,4 @@
-package cn.open.book.base.national.datastruct;
+package cn.open.book.base.national.datastruct.nodelist;
 
 public class NodeStruct<B> implements NodeStructInterface<NodeStruct<B>, B> {
     private B b;

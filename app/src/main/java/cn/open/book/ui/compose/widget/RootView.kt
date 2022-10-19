@@ -16,7 +16,7 @@ import cn.open.book.ui.compose.theme.BaseTheme
 import cn.open.book.ui.compose.util.DataUtils
 
 /**
- * 章节顶级目录。
+ * 章节顶级布局。
  */
 @Composable
 fun ChapterRootView() {

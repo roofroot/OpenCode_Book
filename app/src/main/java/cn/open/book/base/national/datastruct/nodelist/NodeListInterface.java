@@ -1,4 +1,4 @@
-package cn.open.book.base.national.datastruct;
+package cn.open.book.base.national.datastruct.nodelist;
 
 public interface NodeListInterface<T> {
 

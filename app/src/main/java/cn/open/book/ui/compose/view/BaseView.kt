@@ -9,6 +9,7 @@ import cn.open.book.ui.SCREEN_W
 import cn.open.book.ui.activity.MainActivity
 
 /**
+ * 用于处理一些效果的
  * yuxiu
  * 2022/10/4
  **/
