@@ -1,6 +1,5 @@
 package cn.open.book.base.national.datastruct.iterator
 
-import android.util.Log
 import cn.open.book.base.national.datastruct.nodelist.TwoWayNodeListStruct
 import cn.open.book.base.national.datastruct.nodelist.TwoWayNodeStruct
 import cn.open.book.base.national.datastruct.tree.TreeException

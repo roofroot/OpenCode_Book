@@ -2,7 +2,6 @@ package cn.open.book.base.national.datastruct.tree
 
 import cn.open.book.base.national.datastruct.iterator.BasicIterator
 import cn.open.book.base.national.datastruct.iterator.IteratorInterface
-import cn.open.book.base.national.datastruct.nodelist.TwoWayNodeListStruct
 import java.lang.Exception
 
 
